@@ -5,3 +5,4 @@ def func_x(num):
     else:
         return False
 print(func_x(10))
+print('hello bye')
