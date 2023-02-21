@@ -73,6 +73,7 @@ class LinkedList:
         temp = curr1.next
         curr1.next = curr2.next
         curr2.next = temp
+        return
 
     def display_linkedList(self):
         if self.start is None:
@@ -99,4 +100,3 @@ print("---------------------------------------")
 res.swap_two_nodes(3, 5)
 res.display_linkedList()
 # print(res.start)
-8, 4, 11, 5, 6
