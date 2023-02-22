@@ -1,0 +1,7 @@
+organization=techsy-suvajitm
+projectKey=techsy-suvajitm_hello-world-in-pyhton
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.37873
+dashboardUrl=https://sonarcloud.io/dashboard?id=techsy-suvajitm_hello-world-in-pyhton
+ceTaskId=AYZpnDeo-LfiR9Ty9yOE
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYZpnDeo-LfiR9Ty9yOE
